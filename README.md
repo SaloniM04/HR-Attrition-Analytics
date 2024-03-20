@@ -44,4 +44,12 @@ TASKS TO PERFORM
 * Years With Curr Manager
 
 I downloaded the dataset and uploaded the data using the "Get Data" option in Power BI. Then, I utilized the "Transform" option to check for any null values in the dataset.
+  
+                                                               HR ATTRITION DASHBOARD
+Demographics - A demographic report summarizes employee statistics, including age groups, gender, distance from home, and marital status, providing insights into workforce diversity and commuting patterns for informed decision-making.
 
+Turnover Analysis I - The Turnover Analysis I report provides insights into employee attrition, including departures by department, job roles affected, business travel impact, and total years in current role, aiding in workforce management and retention strategies.
+
+Turnover Analysis II - A turnover analysis report consolidates employee data, featuring attrition by job level, overtime performance ratings, monthly income, and attrition increase levels, offering critical insights for effective HR strategies and decision making.
+
+Employee Wellness - Employee Wellness report provides insights into environmental satisfaction, job satisfaction, relationship satisfaction, attrition by job involvement, performance rating and work life balance.
